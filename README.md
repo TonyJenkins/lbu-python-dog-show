@@ -2,4 +2,4 @@
 
 ## Python Class Dog Show Example
 
-A simple example using two classes.
+A simple example using two classes. Includes some inheritance because, well, why not?
